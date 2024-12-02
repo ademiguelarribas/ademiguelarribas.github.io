@@ -5,6 +5,9 @@ permalink: /publications/
 ---
 
 # Scientific papers
+ - [**Influence of social peers on vaccine hesitancy under imperfect vaccination**](https://doi.org/10.1016/j.amc.2024.129214)
+   Lu, Y., de Miguel-Arribas, A., Shi, L.
+   Applied Mathematics and Computation, 491, 129214 (2025).
  - [**Contests in two fronts**](https://doi.org/10.1016/j.chaos.2023.114418) 
 de Miguel-Arribas, A., Morón-Vidal, J., Floría, L. M., Gracia-Lázaro, C., Hernández, L., & Moreno, Y.
 Chaos, Solitons & Fractals, 179, 114418 (2024).
