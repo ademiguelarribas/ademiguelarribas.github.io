@@ -15,7 +15,7 @@ I am a complexity researcher with a background in Physics. I earned my Physics B
 
 Years later, after some wandering, earning another MSc to become a high school teacher, and completing a two-year training internship at AEMET (Spanish Meteorological Agency), I finally secured a pre-doctoral position back at home, at Zaragoza's BIFI (Institute of Biophysics and Complex Systems), within [CosNet](https://cosnet.bifi.es/) lab. I earned my PhD in March 2024, specializing in computational epidemics under Prof. Yamir Moreno supervision.
 
-Currently I am working at Zaragoza Logistics Center (ZLC) in the area of Resilience, SC Security & Risk Management, and as a part of this institute, I am involved in European projects [SecureFood](https://secure-food.eu/) and [SAFARI](https://www.safariports.eu/). 
+Currently I am working at Zaragoza Logistics Center (ZLC) in the [area](https://www.zlc.edu.es/research/core-research-areas/resilience-sc-security-risk-management/) of Resilience, SC Security & Risk Management, and as a part of this institute, I am involved in European projects [SecureFood](https://secure-food.eu/) and [SAFARI](https://www.safariports.eu/). 
 
 ## Research focus & interests
 My PhD research focused on epidemic spreading modeling through the application of concepts and tools from complex systems theory (complex networks, nonlinear dynamics, ABMs, etc.). I am dedicated to studying both the theoretical and application sides of the phenomena.
