@@ -22,7 +22,12 @@ Chaos, Solitons & Fractals, 179, 114418 (2024).
     Sexto Simposio Nacional de Predicción, Memorial Antonio Mestre. Madrid: Agencia Estatal de Meteorología, 2019, p. 215-222.
 
 # Pre-prints
- - None currently
+ - [**Prediction of social dilemmas in networked populations via graph neural networks**](https://arxiv.org/abs/2412.11775)
+   Tan, H., Lu, Y., de Miguel-Arribas, A., Shi, L.
+   ArXiv (2024)
+ - [**Interplay of epidemic spreading and vaccine uptake under complex social contagion**](https://arxiv.org/abs/2412.11766)
+   de Miguel-Arribas, A., Aleta, A., Moreno, Y.
+   ArXiv (2024)
 
 # Dissertations
  - PhD Thesis: **Topics in Epidemic Spreading Modeling**. Supervised by: Professor Yamir Moreno. Defended on March 1st, 2024. [(text)](https://github.com/phononautomata/resources/blob/main/demiguelarribas.2024.topics_in_epidemic_spreading_modeling.pdf) [(defense slides)](https://github.com/phononautomata/resources/blob/main/demiguelarribas.2024.thesis_talk.pdf)
