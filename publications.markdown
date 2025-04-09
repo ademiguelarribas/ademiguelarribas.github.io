@@ -9,8 +9,8 @@ permalink: /publications/
    Lu, Y., de Miguel-Arribas, A., Shi, L.
    Applied Mathematics and Computation, 491, 129214 (2025).
  - [**Contests in two fronts**](https://doi.org/10.1016/j.chaos.2023.114418) 
-de Miguel-Arribas, A., Morón-Vidal, J., Floría, L. M., Gracia-Lázaro, C., Hernández, L., & Moreno, Y.
-Chaos, Solitons & Fractals, 179, 114418 (2024).
+   de Miguel-Arribas, A., Morón-Vidal, J., Floría, L. M., Gracia-Lázaro, C., Hernández, L., & Moreno, Y.
+   Chaos, Solitons & Fractals, 179, 114418 (2024).
  - [**Assessing the effectiveness of perimeter lockdowns as a response to epidemics at the urban scale**](https://doi.org/10.1038/s41598-023-31614-8) 
     de Miguel-Arribas, A., Aleta, A. & Moreno, Y. 
     Nature Scientific Reports, 13, 4474 (2023).
@@ -22,6 +22,9 @@ Chaos, Solitons & Fractals, 179, 114418 (2024).
     Sexto Simposio Nacional de Predicción, Memorial Antonio Mestre. Madrid: Agencia Estatal de Meteorología, 2019, p. 215-222.
 
 # Pre-prints
+ - [**Co-evolution of cooperation and resource allocation in the advantageous environment-based spatial multi-game using adaptive control**](https://arxiv.org/abs/2504.06112)
+   Sun, C., de Miguel-Arribas, A., Wang, C., Xia H., Moreno, Y.
+   ArXiV (2025)
  - [**Prediction of social dilemmas in networked populations via graph neural networks**](https://arxiv.org/abs/2412.11775)
    Tan, H., Lu, Y., de Miguel-Arribas, A., Shi, L.
    ArXiv (2024)
