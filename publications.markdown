@@ -7,13 +7,13 @@ permalink: /publications/
 # Scientific papers
  - [**Contest dynamics between cooperation and exploitation**](https://doi.org/10.1016/j.chaos.2025.117049)
    de Miguel-Arribas, A., Sun, C., Gracia-Lázaro, C., Moreno. Y.
-   Chaos, Solitons & Fractals, Volume 200, Part 3, November 2025, 117049, (2025)
+   Chaos, Solitons & Fractals, Volume 200, Part 3, 117049, (2025).
+- [**Co-evolution of cooperation and resource allocation in the advantageous environment-based spatial multi-game using adaptive control**](https://doi.org/10.1016/j.chaos.2025.116552)
+   Sun, C., de Miguel-Arribas, A., Wang, C., Xia H., Moreno, Y.
+   Chaos, Solitons & Fractals, 199, 116552 (2025).
  - [**Interplay of epidemic spreading and vaccine uptake under complex social contagion**](https://doi.org/10.1103/wmq3-229x)
    de Miguel-Arribas, A., Aleta, A., Moreno, Y.
    Physical Review E 112 (1), 014308 (2025).
- - [**Co-evolution of cooperation and resource allocation in the advantageous environment-based spatial multi-game using adaptive control**](https://doi.org/10.1016/j.chaos.2025.116552)
-   Sun, C., de Miguel-Arribas, A., Wang, C., Xia H., Moreno, Y.
-   Chaos, Solitons & Fractals, 199, 116552 (2025).
  - [**Influence of social peers on vaccine hesitancy under imperfect vaccination**](https://doi.org/10.1016/j.amc.2024.129214)
    Lu, Y., de Miguel-Arribas, A., Shi, L.
    Applied Mathematics and Computation, 491, 129214 (2025).
