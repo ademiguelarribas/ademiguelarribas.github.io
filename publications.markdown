@@ -5,6 +5,9 @@ permalink: /publications/
 ---
 
 # Scientific papers
+ - [**Contest dynamics between cooperation and exploitation**](https://doi.org/10.1016/j.chaos.2025.117049)
+   de Miguel-Arribas, A., Sun, C., Gracia-Lázaro, C., Moreno. Y.
+   Chaos, Solitons & Fractals, Volume 200, Part 3, November 2025, 117049, (2025)
  - [**Interplay of epidemic spreading and vaccine uptake under complex social contagion**](https://doi.org/10.1103/wmq3-229x)
    de Miguel-Arribas, A., Aleta, A., Moreno, Y.
    Physical Review E 112 (1), 014308 (2025).
